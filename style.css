@@ -9,7 +9,7 @@ img{
 }
 #T{
     background-color: forestgreen;
-    background-size:10cm;
+    background-size:3cm;
     color:lime;
     display: flex;
     justify-content: center; /* Centers horizontally */
