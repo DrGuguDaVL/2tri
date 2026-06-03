@@ -8,6 +8,8 @@ img{
     max-width: 100%;
 }
 #T{
+    background-color: forestgreen;
+    background-size:10cm;
     color:lime;
     display: flex;
     justify-content: center; /* Centers horizontally */
