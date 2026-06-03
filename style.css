@@ -2,4 +2,5 @@ img{
     justify-content: center;
     width: 50cm;
     height:10cm;
+    display:flex;
 }
