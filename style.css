@@ -1,15 +1,11 @@
 img{
-    display: flex;
+    display: block;
     justify-content: center; /* Centers horizontally */
     align-items: center;     /* Centers vertically */
     height: 100vh; 
-img {
-  display: block;       /* Forces the image to behave like a block, allowing margins */
-  margin-left: auto;    /* Automatically calculates equal space on the left */
-  margin-right: auto;   /* Automatically calculates equal space on the right */
-  max-width: 100%;      /* Ensures the image scales down nicely on smaller screens */
-}
-
+    margin-left: auto;    /* Automatically calculates equal space on the left */
+    margin-right: auto;   /* Automatically calculates equal space on the right */
+    max-width: 100%;
 }
 #T{
     color:lime;
