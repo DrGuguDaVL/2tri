@@ -1,9 +1,8 @@
 img{
-    justify-content: center;
-    width: 10cm;
-    height:10cm;
-    align-items: center;
-    display:flex;
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center;     /* Centers vertically */
+    height: 100vh; 
 }
 #T{
     color:lime;
