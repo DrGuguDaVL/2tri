@@ -2,7 +2,7 @@ img{
     display: block;
     justify-content: center; /* Centers horizontally */
     align-items: center;     /* Centers vertically */
-    height: 10vh; 
+    height: 20vh; 
     margin-left: auto;    /* Automatically calculates equal space on the left */
     margin-right: auto;   /* Automatically calculates equal space on the right */
     max-width: 100%;
